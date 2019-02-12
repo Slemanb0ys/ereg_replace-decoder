@@ -1,4 +1,4 @@
-# ereg_replace-decryption
+# ereg_replace-decoder
 ($_X,'123456aouie','aouie123456');
 
 <div style="text-align: center;">
